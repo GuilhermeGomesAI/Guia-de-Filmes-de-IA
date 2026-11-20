@@ -37,9 +37,6 @@ Cada filme vira um vetor com 4 características (animação, aventura, comédia 
 
 ## 🧭 Como funciona
 
-<p align="center">
-  <img src="imagens/pipeline.svg" alt="Os cinco passos do projeto: catálogo, esconder um favorito, ajustar o KNN, recomendar e testar" width="100%">
-</p>
 
 1. **Catálogo:** 10 filmes, cada um descrito por 4 características.
 2. **Esconder um favorito:** *Finding Nemo* sai do histórico do espectador, mas continua no catálogo.
