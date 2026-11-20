@@ -48,9 +48,6 @@ Cada filme vira um vetor com 4 características (animação, aventura, comédia 
 
 As características são valores **feitos à mão**, só para ensinar o conceito. Não são metadados oficiais dos filmes.
 
-<p align="center">
-  <img src="imagens/caracteristicas.svg" alt="Tabela com as características de cada filme e o perfil médio dos favoritos" width="100%">
-</p>
 
 | Filme | Animação | Aventura | Comédia | Drama |
 | --- | :---: | :---: | :---: | :---: |
